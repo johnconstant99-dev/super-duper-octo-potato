@@ -1,0 +1,56 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Logs and Databases
+*.log
+*.sql
+*.sqlite
+*.db
+
+# Temporary Files
+*.tmp
+*.temp
+.cache/
+tmp/
+temp/
+
+# Build and Distribution
+dist/
+build/
+*.egg-info/
+target/
+out/
+
+# Dependencies
+node_modules/
+vendor/
+.pnp/
+.pnp.js
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Coverage and Testing
+coverage/
+*.cover
+.pytest_cache/
+.coverage
+
+# Package Manager Files
+package-lock.json
+yarn.lock
+Pipfile.lock
